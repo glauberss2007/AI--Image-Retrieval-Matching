@@ -3,6 +3,7 @@
 Multi-modal embedding involves converting images into numerical vectors to encapsulate their features and traits. These vectors encode an image's content and context in a manner that facilitates text-based search within the same vector space. While traditional image retrieval relied on extracted features like labels and descriptors, the rising preference for vector similarity search stems from its advantages over keyword-based methods. contemporary content search services.
 
 ![image](https://github.com/glauberss2007/AI-Image-Retrieval-Matching/assets/22028539/2e151efd-f2da-44d0-9a75-0f1bd3e50057)
+(Image from Microsoft Site mentioned in reference)
 
 Vector embeddings serve as a method to portray content, be it text or images, in the form of numerical vectors within a multi-dimensional space. Typically derived from extensive textual and visual datasets through machine learning techniques like neural networks, these embeddings map each vector dimension to distinct content features or characteristics. These attributes encompass semantic significance, syntactic function, or the prevalent context in which the content is observed.
 
@@ -107,9 +108,11 @@ PS: Always exercise caution when deploying resources, especially in a production
 
 # References
 
-https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-image-retrieval
-https://github.com/retkowsky
-https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-image-retrieval#business-applications
+- https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-image-retrieval
+
+- https://github.com/retkowsky
+
+- https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-image-retrieval#business-applications
 
 
 
